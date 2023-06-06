@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Install and configure the `learn-lab` gem.
-- Understand the steps needed to complete an assignment and submit it in Canvas.
+- Understand the steps needed to complete an assignment and submit it in Canvas..
 
 ## Introduction
 
